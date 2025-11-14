@@ -1,95 +1,25 @@
-🚀 C++ Fundamentals & Projects
+<h1 align="center">🔥 Awesome C++ Fundamentals Repository 🔥</h1>
 
-Selamat datang di repository C++ saya! Repository ini berisi berbagai contoh kode, latihan dasar, hingga proyek kecil yang dibuat menggunakan bahasa pemrograman C++.
-Tujuan repo ini adalah sebagai dokumentasi perjalanan belajar serta referensi bagi siapa saja yang ingin memahami C++ dari dasar hingga konsep lanjutan.
+<div align="center">
 
+<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
+<img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=Star%20Me%20If%20Useful&color=yellow" alt="Star Badge"/>
+<img src="https://img.shields.io/github/forks/username/repo-name" alt="Forks Badge"/>
+<img src="https://img.shields.io/github/stars/username/repo-name" alt="Stars Badge"/>
+<img src="https://img.shields.io/github/issues/username/repo-name" alt="Issues Badge"/>
+<img src="https://img.shields.io/github/license/username/repo-name" alt="License Badge"/>
 
----
-
-🧩 Fitur Utama
-
-🔹 Contoh dasar C++ (variable, input/output, operator, kondisi, looping, fungsi)
-
-🔹 Program studi kasus sederhana
-
-🔹 Struktur kode rapi dan mudah dipelajari
-
-🔹 Komentar penjelasan di setiap bagian kode
-
-🔹 Tutorial kecil & catatan penting dalam pembelajaran
-
-
+<br>
+<i>Belajar C++ dengan gaya modern, rapih, dan terstruktur 🚀</i>
+</div>
 
 ---
 
-📁 Struktur Repository
+## 📘 About This Repository
 
-📦 cpp-repository
-├─ 📂 basic
-│  ├─ hello_world.cpp
-│  ├─ variables.cpp
-│  ├─ loops.cpp
-│  └─ functions.cpp
-│
-├─ 📂 projects
-│  ├─ calculator.cpp
-│  ├─ discount_program.cpp
-│  └─ student_grade.cpp
-│
-└─ README.md
-
+Repositori ini berisi pembelajaran fundamental C++ untuk pemula hingga tingkat menengah.  
+Cocok untuk kamu yang ingin memahami dasar pemrograman C++, OOP, dan STL secara praktis.
 
 ---
 
-🔧 Cara Menjalankan Program
-
-Pastikan kamu punya compiler seperti g++ (bagian dari MinGW, GCC, atau Linux build tools).
-Jalankan perintah berikut:
-
-g++ namafile.cpp -o program
-./program
-
-Atau untuk Windows (CMD/Powershell):
-
-g++ namafile.cpp -o program.exe
-program.exe
-
-
----
-
-🧠 Teknologi yang Digunakan
-
-Bahasa: C++ (C++11 / C++17)
-
-Compiler: GCC / MinGW / Clang
-
-Tools: VSCode, CodeBlocks, atau IDE favorit lainnya
-
-
-
----
-
-✨ Contoh Kode
-
-#include <iostream>
-using namespace std;
-
-int main() {
-    cout << "Hello, C++ World!" << endl;
-    return 0;
-}
-
-
----
-
-🤝 Kontribusi
-
-Silakan lakukan pull request atau buka issues jika ingin memberikan saran, tambahan materi, atau menemukan bug.
-Semua bentuk kontribusi sangat dihargai! 🙌
-
-
----
-
-📜 Lisensi
-
-Repository ini menggunakan lisensi MIT, sehingga bebas digunakan dan dimodifikasi.
+## 📂 Folder Structure
